@@ -1,8 +1,8 @@
 "name": " Republic of China",
 		"leaderName": "Chiang Kai-shek",
 		"adjective": ["Chinese"],
-		"preferredVictoryType": "Scientific",
-		"personality": "Wu Zetian",
+		"preferredVictoryType": "Domination",
+		"personality": "Augustus Caesar",
 
         "startIntroPart1": "Generalissimo Chiang Kai-shek, you have emerged from the chaos to lead the Republic of China, a nation forged in the fires of revolution and standing as a bulwark against all threats! From the ashes of empire, you have united a great people and brought forth a modern state. You stand at the crossroads of history, poised to reclaim what was lost and usher in a new era for one of the world's most enduring civilizations. All nations shall witness your resolve and the indomitable spirit of your people!"",
         "startIntroPart2": "My fellow countrymen, the time for division is at an end. For too long, our nation has been beset by chaos and strife. But now, we stand united under one flag, ready to forge a new destiny! Our enemies, whether from without or from within, will soon learn that the spirit of the Chinese people cannot be broken. We shall build a republic that is not only mighty in its armies, but glorious in its culture and unyielding in its resolve. Will our new nation stand firm against all who would see us fall? The world will soon see that the Republic of China is here to prevail!",
