@@ -1,38 +1,28 @@
-[
-	{
-		"name": "Aliens",
-		"leaderName": "Zyxxyz",
-		"adjective": ["alien"],
-		"startBias": ["Snow"],
+"name": " Republic of China",
+		"leaderName": "Chiang Kai-shek",
+		"adjective": ["Chinese"],
 		"preferredVictoryType": "Scientific",
-		
-		"startIntroPart1": "We come in peace!",
-		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
-		
-		"declaringWar": "Resistance is futile! Prepare to be assimilated!",
-		"attacked": "You want to play? Very funny!",
-		"defeated": "How is it possible that those Apes hurt us? The galactic senate will take care of them.",
-		"introduction": "As superior galactic entities, you are not worthy of our attention.",
-		
-		"neutralHello": "How are you doing?",
-		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
-		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
-		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+		"personality": "Wu Zetian",
 
-		"hateHello": "What do you want now?",
-		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
-		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
-		"hateYes": ["That is fine.","That is good enough.","Very well..."],
-		
-		"afterPeace": "Very well, all that fighting was getting boring anyway.",
-		"tradeRequest": "We bestow you the honor of this trade offer.",
+        "startIntroPart1": ""Generalissimo Chiang Kai-shek, you have emerged from the chaos to lead the Republic of China, a nation forged in the fires of revolution and standing as a bulwark against all threats! From the ashes of empire, you have united a great people and brought forth a modern state. You stand at the crossroads of history, poised to reclaim what was lost and usher in a new era for one of the world's most enduring civilizations. All nations shall witness your resolve and the indomitable spirit of your people!"",
+        "startIntroPart2": "My fellow countrymen, the time for division is at an end. For too long, our nation has been beset by chaos and strife. But now, we stand united under one flag, ready to forge a new destiny! Our enemies, whether from without or from within, will soon learn that the spirit of the Chinese people cannot be broken. We shall build a republic that is not only mighty in its armies, but glorious in its culture and unyielding in its resolve. Will our new nation stand firm against all who would see us fall? The world will soon see that the Republic of China is here to prevail!",
 
-		"outerColor": [16,16,16],
-		"innerColor": [255,200,200],
-		"unique": "MANIFEST_DESTINY",
-		"cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
-			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
-			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
-			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
-	}
-]
+        "declaringWar": "You are a relic of a bygone era. This land belongs to a new, unified China, and your existence stands in the way of our destiny. You will be erased from history.",
+		"attacked": "Your arrogance is an insult to our people. The Republic will prove its resolve on the battlefield, and your nation will be nothing more than a footnote in the pages of our ascendancy.",
+		"defeated": "My fight ends here, but the struggle for a unified China will continue. I have failed, but the dream of our republic will live on in the hearts of our people. We will one day rise again.",
+		"introduction": "Greetings. I am Chiang Kai-shek, leader of the Republic of China. Our nation has risen to forge a new destiny, and we are ready to find our place among the powers of this world.",
+		"neutralHello": "We have business to discuss. Speak your mind.",
+		"hateHello": "I have no patience for your deceit. State your intentions and be gone.",
+		"tradeRequest": "Our nations have needs that can be met through cooperation. What would it take to secure a fair exchange between us?",
+
+        "outerColor": [255, 255, 255],
+        "innerColor": [254, 0, 0],
+
+		"favoredReligion": "Taoism",
+		"uniqueName": "",
+		"uniques": [],
+		"cities": ["Nanjing","Beijing","Shanghai","Chongqing","Taipei","Guangzhou","Chengdu","Nanchang","Kunming","Changsha",
+"Tianjin","Hangzhou","Kaifeng","Xian","Luoyang","Shenyang","Wuhan","Fuzhou","Tainan","Kaohsiung",
+"Lhasa","Harbin","Suzhou","Tsinan","Xiamen","Dalian","Nanning","Jinan","Taiyuan","Guiyang",
+"Zhengzhou","Changchun","Nantou","Hsinchu","Keelung","Taitung","Hualien","Chiayi","Taichung","Miaoli"],
+        "spyNames": ["Li", "Chen", "Zhang", "Liu", "Yang", "Huang", "Zhao", "Wu", "Zhou", "Sun"]
